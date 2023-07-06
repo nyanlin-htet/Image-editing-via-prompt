@@ -1,0 +1,31 @@
+{"intents": [
+    {"label": "resize",
+     "prompts": ["Resize this image 20%", "Can you resize this image 60 percent?", "resize 30 percent", "resize that 48%", "could you resize that picture 90%?", "I want to resize my image 50 percent", "resize this image"]
+    },
+
+
+    {"label": "brightness",
+     "prompts": ["Change image brightness to 100", "Can you change brightness to 70?", "Could you change brightness to 70?", "I want to change my picture brigtness to 60", "change brightness"]
+    },
+
+
+    {"label": "rotate",
+     "prompts": ["can you rotate 90 degree?", "could you rotate this image 90 °?", "I want to rotate my image 180 °", "rotate 30 degree", "rotate that 200 degree", "rotate this image"]
+    },
+
+
+    {"label": "blur",
+    "prompts": ["Blur this image 90%", "Can you blur this picture 100 percent?", "Blur my original picture 45 percent", "I want you to do blur this image 40%.", "Could you change image blured 50 percent?", "Blur this image", "Can you blur this one", "Try Blur that image", "Blur please", "Ok I want the image to blur"]
+    },
+
+
+    {"label": "detect",
+     "prompts": ["Detect this picture", "Can you detect objects in that picture?", "could you detect objects in that picture?", "Draw rectangles on objects", "Detect what you see in the image", "How many objects can you detect in this image?", "detect this image"]
+    },
+
+
+    {"label": "crop",
+    "prompts": ["Crop this image", "Cut this image"]
+    }
+]   
+}
